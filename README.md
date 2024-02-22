@@ -13,6 +13,7 @@
 - 点击右下角悬浮按钮 🤖，开始爬虫，爬取的内容自动下载到 download 下；
 
 # 汇总 excel
+- 配置 python 环境 3.11.6
 - 修改 main.py
   ```
   city = 'xian'
